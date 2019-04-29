@@ -1,0 +1,32 @@
+.fondo{
+	width: 700px;
+	margin: 0 auto;
+	font-family: "Arial";
+	letter-spacing: none;
+
+}
+.titulo {
+	background-color: #33bebe;
+	padding: 10px 10px 0px;
+	color: white;
+
+}
+.content {
+	display: flex;
+	flex-direction: row;
+	margin-right: 10px;
+}
+.img {
+
+	width: 55%;
+	
+}
+.parrafo {
+
+	margin: 0px;
+	width: 45%;
+
+
+}
+
+
