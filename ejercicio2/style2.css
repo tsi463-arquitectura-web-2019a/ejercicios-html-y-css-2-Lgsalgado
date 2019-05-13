@@ -1,0 +1,36 @@
+.main  {
+    
+   	width: 100%;
+	height: 100%;
+	background-color: #E8E8E7;
+	margin: 0px auto;
+
+}
+
+.image{
+	padding-top: 20px;
+	width: 100%;
+
+	height: 30%;	
+	  }
+
+.line {
+	margin-top: 15px;
+	background-color: #8BCC98;
+	height: 17px;
+}
+
+.subtexto{
+	background-color: #ffffff;
+	width: 1000px;
+	height: 700px;
+	margin: 0 auto;
+	margin-top: 30px;
+	font-size: 20px;
+}
+
+.text{
+	margin-left: 20px;
+	padding-top: 15px;
+}
+
